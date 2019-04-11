@@ -1,3 +1,8 @@
+# What is this?
+
+KBC bank is not supported by Waveapps. This script lets you import statements from your KBC account to Waveapps and 
+manage your finances as if your KBC bank were supported.
+
 # Usage:
 
 Download statements from KBC touch (http://kbctouch.kbc.be/) as csv file
